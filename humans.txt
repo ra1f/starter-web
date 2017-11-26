@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hans Moser -- hans@moser.com -- <twitter>
 
 # THANKS
 
