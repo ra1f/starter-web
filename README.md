@@ -11,3 +11,7 @@ This is an introduction
 Sample website with plenty of files for demos
 
 ## Deploy
+
+## Copyright
+
+2017 Git. Readme
