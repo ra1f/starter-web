@@ -10,6 +10,10 @@ This is an introduction
 
 Sample website with plenty of files for demos
 
+## How To Contribute
+
+Please fork this repository and then issue Pull Requests for review.
+
 ## Deploy
 
 ## Copyright
