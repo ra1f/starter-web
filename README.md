@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2017 Git. Readme
+2017 Git. Readme. All rights reserved
